@@ -1,30 +1,30 @@
 # Crunch-Algorithm-Engineer:
 
-As ride-hailing services become more popular, being able to reliably estimate demand can help operators allocate drivers to clients more efficiently, reducing idle time, improving traffic congestion, and improving the passenger experience.
-We making a Flask based web application that will predict the Number of Weekly Rides using machine learning model.
+A project for a retail client who sells shoes across multiple shops, both online and offline.
+The project focuses on analyzing customer returns for a shoe retailer, especially the factors affecting customer return, a critical aspect given the impact on profitability, especially with the retailer offering free shipping due to market demand.
 
-## For making this Appliation we mainly divide the project in two steps:
-* Training Model
-* Deploy the trained model In the Flask app
+## Objectives:
+* The project had several objectives, such as analyzing sales patterns, identifying successful brands, and crafting a machine learning algorithm to predict returns. Through strategic optimization to decrease returns and increase profitability, the project sought to enhance the overall business performance and sales strategy.
 
 ## Library Requirement:
-* Flask
 * numpy
-* scikit-learn
 * pandas
-* pickle
-
-For Model Traning, we import some necessary libraries. Read the dataset using the pandas library. after reading the dataset we generally divide the dataset into training and test split by using sklearn train_test_split.
-
-Then trained a most popular machine learning model name Linear regression. Basically for uber ride prediction, the target labels Number of weekly riders are continuous values. So we need a regression-based model to predict the unknown outcomes.
-
-After training the linear regression model we save the trained model in a pickle file.
-
-After training a model. It’s time to make the complete user-friendly web application to test our trained model. First, we import some necessary libraries then load the model using pickle again. We make a prediction function that takes input from the user and predicts the output
+* matplotlib
+* seaborn
+* scikit-learn
+* xgboost
 
 ## Outputs:
-<img align="center" alt="PNG" src="https://raw.githubusercontent.com/saifalbaghdadi/UberL_Prediction_ML/main/templates/Outputs.png" width="600px" data-canonical- style="max-width: 250%">
+* Output Analysit
+![Snapshot of the App](https://raw.githubusercontent.com/saifalbaghdadi/saifalbaghdadi/development/img/output1.png)
+![Snapshot of the App](https://raw.githubusercontent.com/saifalbaghdadi/saifalbaghdadi/development/img/output2.png)![Snapshot of the App](https://raw.githubusercontent.com/saifalbaghdadi/saifalbaghdadi/development/img/output1.png)
+![Snapshot of the App](https://raw.githubusercontent.com/saifalbaghdadi/saifalbaghdadi/development/img/output2.png)
 
+
+* After training data, I obtained the best accuracy and results of the machine learning algorithm
+
+![Snapshot of the App](https://raw.githubusercontent.com/saifalbaghdadi/saifalbaghdadi/development/img/output1.png)
+![Snapshot of the App](https://raw.githubusercontent.com/saifalbaghdadi/saifalbaghdadi/development/img/output2.png)
 ## Author
 ### SAIF MALKSHAHI
 
