@@ -21,7 +21,7 @@ The project had several objectives, such as analyzing sales patterns, identifyin
 ![Snapshot3](https://raw.githubusercontent.com/saifalbaghdadi/Crunch-Algorithm-Engineer/main/img/concise%20visualizes%20the%20impact%20of%20returns%20on%20profitability.png)
 
 
-* After training data, I obtained the best accuracy and results of the machine learning algorithm
+* After training data, I get the best accuracy and results of the machine learning algorithm
 
 ![Snapshot4](https://raw.githubusercontent.com/saifalbaghdadi/Crunch-Algorithm-Engineer/main/img/output1.png)
 ![Snapshot5](https://raw.githubusercontent.com/saifalbaghdadi/Crunch-Algorithm-Engineer/main/img/output2.png)
