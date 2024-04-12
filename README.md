@@ -18,13 +18,11 @@ The project had several objectives, such as analyzing sales patterns, identifyin
 * Output Analysit
 ![Snapshot1](https://raw.githubusercontent.com/saifalbaghdadi/Crunch-Algorithm-Engineer/main/img/output.png) <br>
 ![Snapshot2](https://raw.githubusercontent.com/saifalbaghdadi/Crunch-Algorithm-Engineer/main/img/return%20reasons%20by%20shop.png)
-![Snapshot3](https://raw.githubusercontent.com/saifalbaghdadi/Crunch-Algorithm-Engineer/main/img/concise%20visualizes%20the%20impact%20of%20returns%20on%20profitability.png)
-
 
 * After training data, I get the best accuracy and results of the machine learning algorithm
 
-![Snapshot4](https://raw.githubusercontent.com/saifalbaghdadi/Crunch-Algorithm-Engineer/main/img/output1.png)
-![Snapshot5](https://raw.githubusercontent.com/saifalbaghdadi/Crunch-Algorithm-Engineer/main/img/output2.png)
+![Snapshot3](https://raw.githubusercontent.com/saifalbaghdadi/Crunch-Algorithm-Engineer/main/img/output1.png)
+![Snapshot4](https://raw.githubusercontent.com/saifalbaghdadi/Crunch-Algorithm-Engineer/main/img/output2.png)
 ## Author
 ### SAIF MALKSHAHI
 
